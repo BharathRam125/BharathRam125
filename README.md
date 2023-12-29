@@ -6,6 +6,7 @@ Hi ! I'm Bharath Ram S
 * 🧠  I'm learning ASP.Net, MAUI.Net
   
 =====================================================================================================================================
+
 ### Skills
 
 
@@ -14,10 +15,12 @@ Hi ! I'm Bharath Ram S
 </p>
 
 =====================================================================================================================================
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/BharathRam125" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 =====================================================================================================================================
+
 ### My GitHub Stats
 
 <a href="http://www.github.com/BharathRam125"><img src="https://github-readme-stats.vercel.app/api?username=BharathRam125&show_icons=true&hide=&include_all_commits=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="BharathRam125's GitHub stats" /></a>
@@ -26,6 +29,7 @@ Hi ! I'm Bharath Ram S
 
 <a href="https://github.com/BharathRam125" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BharathRam125&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 =====================================================================================================================================
+
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BharathRam125&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
