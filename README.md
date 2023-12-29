@@ -1,6 +1,7 @@
 Hi ! I'm Bharath Ram S
 =====================================================================================================================================
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+[![](https://visitcount.itsvg.in/api?id=BharathRam125&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
 Software Developer
 ------------------
