@@ -1,6 +1,6 @@
 Hi ! I'm Bharath Ram S
 =====================================================================================================================================
-![Visitor Count](https://profile-counter.glitch.me/BharathRam125/count.svg)
+![](https://komarev.com/ghpvc/?username=BharathRam125)
 
 
 
