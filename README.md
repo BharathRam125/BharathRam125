@@ -1,6 +1,7 @@
 Hi ! I'm Bharath Ram S
 =====================================================================================================================================
-[![](https://visitcount.itsvg.in/api?id=BharathRam125&icon=0&color=6)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/BharathRam125/count.svg)
+
 
 
 Software Developer
