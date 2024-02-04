@@ -2,8 +2,7 @@ Hi ! I'm Bharath Ram S
 ![](https://komarev.com/ghpvc/?username=BharathRam125&color=blueviolet)
 =====================================================================================================================================
 
-* 🚀  I'm currently working on [QuickPeer](http://github.com/BharathRam125/QuickPeer)
-* 🧠  I'm learning ASP.Net, MAUI.Net
+* 🧠  I'm currently learning ASP.Net, MAUI.Net
 
 
 ### Languages and Tools
