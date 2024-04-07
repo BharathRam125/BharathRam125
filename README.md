@@ -9,6 +9,6 @@
 </a>
  
 <a href="https://github.com/BharathRam125" align="left">
- <img height=200 width=90%align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BharathRam125&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+ <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BharathRam125&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
