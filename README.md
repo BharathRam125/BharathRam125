@@ -47,7 +47,7 @@
 </div>
 
 ###
-
+<br clear="both">
 <!--<br clear="both">
 <img src="https://raw.githubusercontent.com/BharathRam125/BharathRam125/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 -->
@@ -59,7 +59,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BharathRam125/BharathRam125/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
 
 ###
