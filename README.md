@@ -63,7 +63,7 @@
 <!--<br clear="both">
 <img src="https://raw.githubusercontent.com/BharathRam125/BharathRam125/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 -->
-
+<!-- <img src="https://raw.githubusercontent.com/BharathRam125/BharathRam125/output/snake.svg" alt="Snake animation" /> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BharathRam125/BharathRam125/output/pacman-contribution-graph-dark.svg">
