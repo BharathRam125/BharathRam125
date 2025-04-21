@@ -9,11 +9,11 @@
 </div> -->
 
 ###
-
+<!--
 <br clear="both">
 
 <img align="right" height="100" src="https://media.giphy.com/media/UlexC9HXTiNz2/giphy.gif?cid=790b76117dunc9bik40qanusf4v2x6ca5ia1tsgcyf8s5ims&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
+-->
 ###
 
 <div align="left">
